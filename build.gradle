@@ -13,7 +13,7 @@ buildscript {
 
 plugins {
   id "java"
-  id "org.springframework.boot" version "1.5.9.RELEASE"
+  id "org.springframework.boot" version "1.5.14.RELEASE"
 }
 
 def compatibility = 1.8
